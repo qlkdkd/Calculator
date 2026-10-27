@@ -1,3 +1,5 @@
+# ctrl.py
+
 class Control:
     def __init__(self, view):
         self.view = view
